@@ -1,3 +1,5 @@
+require '../solver'
+
 context 'Given a string' do
   it 'will reverse the string using the reverse_str method' do
     word = Solver.new
