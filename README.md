@@ -12,22 +12,16 @@
 - ![](https://img.shields.io/badge/Ruby-red)
 
 - Gitflow
-- Linters (Lighthouse, Webhint, Stylelint, Eslint)
+- Linters (RSpec Report, Rubocop Report)
 - Visual Studio Code
 - Git & Github
 
 ## Authors
 
-👤 **Henry Varflay Singbeh**
+👤 **Oyewunmi Gbenga**
 
-- GitHub: [@githubhandle](https://github.com/henrycode460)
-- Twitter: [@twitterhandle](https://twitter.com/460code)
-
-👤 **Elisha Tetteyfio**
-
-- GitHub: [@githubhandle](https://github.com/elisha-tetteyfio)
-- Twitter: [@twitterhandle](https://linkedIn.com/elisha-tetteyfio)
-
+- GitHub: [@githubhandle](https://github.com/kelomo2502)
+- Twitter: [@twitterhandle](https://twitter.com/kelomoJs)
 
 ## Getting Started
 
@@ -42,12 +36,12 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 
 - open a terminal
-- run ``` git clone git@github.com:henrycode460/TDD-_Project.git```
+- run ``` git clone https://github.com/kelomo2502/TDD.git```
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/henrycode460/TDD-_Project/issues).
+Feel free to check the [issues page](https://github.com/kelomo2502/TDD.git/issues).
 
 ## Show your support
 
