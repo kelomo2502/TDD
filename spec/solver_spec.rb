@@ -14,7 +14,7 @@ describe Solver do
   end
 
   it "Testing the 'factorial' method" do
-    expect(@solve.factorial(4)).to eq(24)
+    expect(@solve.factorial(3)).to eq(6)
   end
 
   it 'Testing the factorial of 0' do
@@ -22,7 +22,7 @@ describe Solver do
   end
 
   it 'Testing the factorial of negative number' do
-    expect { @solve.factorial(-4) }.to raise_exception
+    expect { @solve.factorial(-3) }.to raise_exception
   end
 end
 
@@ -43,7 +43,7 @@ describe "Testing the 'fizzbuzz' method" do
     expect(@test.fizzbuzz(15)).to eq('fizzbuzz')
   end
 
-  it "Expecting 7 to return '7'" do
-    expect(@test.fizzbuzz(7)).to eq('7')
+  it "Expecting 11 to return '11'" do
+    expect(@test.fizzbuzz(11)).to eq('11')
   end
 end
