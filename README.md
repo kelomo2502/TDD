@@ -2,7 +2,7 @@
 
 # TDD Project 
 
-> This project is intended to implement the the Test before Development principle in software Development. There are few functions written in this project using the TDD method. 
+> This project is about implementing the Test Driven Development paradigm. Hence some failed tests have been written into this programme before the actual codes are added to make the test pass.
 
 
 ## Built With
